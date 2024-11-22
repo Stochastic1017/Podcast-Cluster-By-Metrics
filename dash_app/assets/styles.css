@@ -1,0 +1,14 @@
+/* Base button styles */
+#enter-button {
+    background-color: #1DB954; /* Spotify green */
+    color: black; /* Button text color */
+    font-family: 'Arial', sans-serif; /* Clean and modern font */
+    font-size: 16px;
+    font-weight: bold; /* Make the text bold */
+    padding: 12px 24px; /* Add some padding for a sleek look */
+    border: none; /* Remove default border */
+    border-radius: 30px; /* Rounded edges */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: all 0.3s ease-in-out; /* Smooth transition for hover effects */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
